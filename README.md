@@ -1,2 +1,1 @@
-# website
-a website made by me with my lectures
+TinDog Starting Files
